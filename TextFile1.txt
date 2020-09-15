@@ -1,0 +1,4 @@
+﻿throught the process I would frequently run the code to see if my changes had any errors,
+next if there were no errors to trouble shoot i would press the buttons to see if they changed the lable to the translation
+finally i would use google translate to see if my translations were at least mildly correct.
+If I didnt trust google translate I would hire a native born french speaker that knew english to translate for me.
